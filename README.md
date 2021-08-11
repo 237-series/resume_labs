@@ -18,6 +18,7 @@
 
 ### 학위청구논문 
 - 석사학위논문: x86 기반의 멀티프로세서 PC환경에서 리눅스 시스템상에 실시간성 제공 방법
+	- 공학석사 
 	- 지도교수 이철훈 
 	- https://dcollection.cnu.ac.kr/public_resource/pdf/000000066204_20210811000152.pdf
 
@@ -48,7 +49,7 @@
 
 
 ### SCOPUS
-- Sang-Gil Lee, Cheol-Hoon Lee. "Real-Time Scheduling for Periodic Tasks on Uniform Multiprocessors." Journal of Computing Science and Engineering 14.3 (2020): 121-130. doi: 10.5626/jcse.2020.14.3.121
+- [view](https://doi.org/10.5626/jcse.2020.14.3.121)Sang-Gil Lee, Cheol-Hoon Lee. "Real-Time Scheduling for Periodic Tasks on Uniform Multiprocessors." Journal of Computing Science and Engineering 14.3 (2020): 121-130. doi: 10.5626/jcse.2020.14.3.121
 
 ### KCI 
 #### 1저자 
