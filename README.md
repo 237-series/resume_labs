@@ -49,7 +49,7 @@
 
 
 ### SCOPUS
-- [view](https://doi.org/10.5626/jcse.2020.14.3.121)Sang-Gil Lee, Cheol-Hoon Lee. "Real-Time Scheduling for Periodic Tasks on Uniform Multiprocessors." Journal of Computing Science and Engineering 14.3 (2020): 121-130. doi: 10.5626/jcse.2020.14.3.121
+- Sang-Gil Lee, Cheol-Hoon Lee. "Real-Time Scheduling for Periodic Tasks on Uniform Multiprocessors." Journal of Computing Science and Engineering 14.3 (2020): 121-130. doi: [10.5626/jcse.2020.14.3.121](https://doi.org/10.5626/jcse.2020.14.3.121). 
 
 ### KCI 
 #### 1저자 
